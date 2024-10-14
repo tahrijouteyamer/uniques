@@ -20,3 +20,116 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.1/font/bootstrap-icons.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"  rel="stylesheet">
 </head>
+
+<body data-bs-theme="dark">
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <defs>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="arrow-left" viewBox="0 0 24 24">
+          <path fill="currentColor"
+            d="M17 11H9.41l3.3-3.29a1 1 0 1 0-1.42-1.42l-5 5a1 1 0 0 0-.21.33a1 1 0 0 0 0 .76a1 1 0 0 0 .21.33l5 5a1 1 0 0 0 1.42 0a1 1 0 0 0 0-1.42L9.41 13H17a1 1 0 0 0 0-2Z" />
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="arrow-right" viewBox="0 0 24 24">
+          <path fill="currentColor"
+            d="M17.92 11.62a1 1 0 0 0-.21-.33l-5-5a1 1 0 0 0-1.42 1.42l3.3 3.29H7a1 1 0 0 0 0 2h7.59l-3.3 3.29a1 1 0 0 0 0 1.42a1 1 0 0 0 1.42 0l5-5a1 1 0 0 0 .21-.33a1 1 0 0 0 0-.76Z" />
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="search" viewBox="0 0 24 24">
+          <path fill="currentColor"
+            d="M21.71 20.29L18 16.61A9 9 0 1 0 16.61 18l3.68 3.68a1 1 0 0 0 1.42 0a1 1 0 0 0 0-1.39ZM11 18a7 7 0 1 1 7-7a7 7 0 0 1-7 7Z" />
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="close" viewBox="0 0 15 15">
+          <path fill="currentColor"
+            d="M7.953 3.788a.5.5 0 0 0-.906 0L6.08 5.85l-2.154.33a.5.5 0 0 0-.283.843l1.574 1.613l-.373 2.284a.5.5 0 0 0 .736.518l1.92-1.063l1.921 1.063a.5.5 0 0 0 .736-.519l-.373-2.283l1.574-1.613a.5.5 0 0 0-.283-.844L8.921 5.85l-.968-2.062Z" />
+        </symbol>
+      </defs>
+    </svg>
+  
+  
+  <nav class="navbar navbar-expand-lg text-white text-uppercase fs-7 ls-1 py-5 justify-content-center">
+            <a class="navbar-brand" href="index.html"><img src="images/logo.png" width="160px" height="90px" alt="logo" data-aos="fade-in"></a>
+            <button class="navbar-toggler"></button>
+  
+            <div class="search-popup">
+              <div class="search-popup-container">
+          
+                <form role="search" method="get" class="form-group" action="">
+                  <input type="search" id="search-form" class="form-control border-0 border-bottom"
+                    placeholder="Type and press enter" value="" name="s" />
+                  <button type="submit" class="search-submit border-0 position-absolute bg-white"
+                    style="top: 15px;right: 15px;"><svg class="search" width="24" height="24">
+                      <use xlink:href="#search"></use>
+                    </svg></button>
+                </form>
+          
+                <h5 class="genre-list-title">Browse Genres</h5>
+          
+                <ul class="genre-list">
+                  <li class="genre-list-item">
+                    <a href="#" title="Jackets">Action</a>
+                  </li>
+                  <li class="genre-list-item">
+                    <a href="#" title="T-shirts">Drama</a>
+                  </li>
+                  <li class="genre-list-item">
+                    <a href="#" title="Handbags">Science-Fiction</a>
+                  </li>
+                  <li class="genre-list-item">
+                    <a href="#" title="Accessories">Horror</a>
+                  </li>
+                  <li class="genre-list-item">
+                    <a href="#" title="Cosmetics">Animation</a>
+                  </li>
+                  <li class="genre-list-item">
+                    <a href="#" title="Dresses">Romance</a>
+                  </li>
+                  <li class="genre-list-item">
+                    <a href="#" title="Jumpsuits">Classics</a>
+                  </li>
+                </ul>
+          
+              </div>
+              </div>
+                  </div>
+                    <ul class="list-unstyled d-flex-end m-0">
+                      <li class="search-box" class="mx-2">
+                        <a href="#search" class="search-button" style="position: absolute; margin-left: 42rem; margin-top: -10px;">
+                          <svg width="24" height="24" viewBox="0 0 24 24"><use xlink:href="#search"></use></svg>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+    </nav>
+  
+    <section>
+      <div class="container-fluid" data-aos="fade-up">
+        <div class="slideshow slide-in arrow-absolute text-white" style="height: 80vh; border-radius: 20px; margin-top: -10px;">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide jarallax">
+              <img src="images/large-banner1.jpg" class="jarallax-img" alt="slideshow">
+              <div class="banner-content w-100">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-10 pt-5">
+                      <h2 class="display-1 ls-0 mt-5 pt-5 txt-fx slide-up">The Schawshank Redemption</h2>
+                      <p class="caption" style="word-wrap: break-word; max-width: 50rem;">A timeless tale of hope and friendship, following the journey of a wrongfully convicted man as he forms bonds and seeks redemption within a maximum-security prison.</p>
+                      <a href="#" class="btn btn-outline-light text-uppercase rounded-3 px-4 py-3 mt-3">Watch Now</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide jarallax">
+              <img src="images/large-banner2.png" class="jarallax-img" alt="slideshow">
+              <div class="banner-content w-100">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-10 pt-5">
+                      <h2 class="display-1 mt-5 pt-5 txt-fx slide-up font-godfather" style="font-size: 8rem;">The Godfather</h2>
+                      <p class="caption" style="word-wrap: break-word; max-width: 40rem;">A gripping tale of power, loyalty, and betrayal within the Corleone crime family as they navigate the complexities of organized crime.</p>
+                      <a href="#" class="btn btn-outline-light text-uppercase rounded-3 px-4 py-3 mt-3">Start Watching</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
