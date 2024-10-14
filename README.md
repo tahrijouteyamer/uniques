@@ -32,7 +32,7 @@ To maintain the uniqueness and exclusivity of **Uniques**, only a partial versio
 To view the publicly shared files locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/uniques.git
+   git clone https://github.com/tahrijouteyamer/uniques.git
    ```
 2. Navigate into the project directory:
    ```bash
