@@ -88,5 +88,5 @@
   
   
     };
-
+})(jQuery)
 // Rest of the code will be updated in the future.
