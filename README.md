@@ -49,4 +49,4 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## 👤 Contributing
 While I welcome feedback and suggestions, please note that the full codebase is not available for contribution. If you have any ideas for features or improvements, feel free to contact me.
 
-—————————————————————————————————————————————————————————![uniques_logo](https://github.com/user-attachments/assets/0291b111-8d97-4c8a-b7d3-425a43bec7df)
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————— ![uniques_logo](https://github.com/user-attachments/assets/0291b111-8d97-4c8a-b7d3-425a43bec7df)
