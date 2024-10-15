@@ -28,7 +28,6 @@
       },
     });
     
-    // swiper slider home 2
     $('.slideshow').each(function(){
       var space = $(this).attr('data-space') ? $(this).attr('data-space') : 0 ;
       var col = $(this).attr('data-col');
