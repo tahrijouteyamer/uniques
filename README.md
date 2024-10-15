@@ -41,7 +41,7 @@ To view the publicly shared files locally:
 
 3. Open `index.html` in your browser to view the available sections of **Uniques**.
 
-**Note**: The full functionality and complete design seen on the live website may not be available in the shared files.
+> The full functionality and complete design seen on the live website may not be available in the shared files.
 
 ## 📜 License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code, but it comes with no warranty. See the [LICENSE](link_to_license_file) for more details.
@@ -49,7 +49,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## 👤 Contributing
 While I welcome feedback and suggestions, please note that the full codebase is not available for contribution. If you have any ideas for features or improvements, feel free to contact me.
 
-———————————————————————————————————————————————————
+—————————————
 
 ![uniques_logo](https://github.com/user-attachments/assets/1302bc9c-828d-42ac-8bdf-e0a117192386)
 
