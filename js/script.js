@@ -113,7 +113,6 @@
 
   }
 
-  // init jarallax parallax
   var initJarallax = function () {
     jarallax(document.querySelectorAll(".jarallax"));
 
