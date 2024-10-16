@@ -171,7 +171,6 @@
     initIsotope();
   });
 
-  // document ready
   $(document).ready(function () {
     searchPopup();
     initJarallax();
