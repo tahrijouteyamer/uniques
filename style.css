@@ -422,8 +422,6 @@ animation: gradient-animation 8s ease infinite;
   }
 }
 
-
-/* swipe animation */
 .swipe-up {
   clip-path: inset(0 0 100% 0);
   display: block;
