@@ -341,7 +341,6 @@ animation: gradient-animation 8s ease infinite;
   transition: background-size 1s ease-in-out;
 }
 
-/* fade in */
 .slideshow.fade-in .swiper-slide .banner-content {
   opacity: 0;
   transition: opacity 0.3s var(--custom-easing);
