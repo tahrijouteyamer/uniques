@@ -301,7 +301,6 @@ background-clip: text;
 animation: gradient-animation 8s ease infinite;
 }
 
-/* navbar */
 @media screen and (max-width:768px) {
   .navbar-brand img {
     max-width: 65%;
