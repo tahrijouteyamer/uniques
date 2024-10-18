@@ -48,7 +48,6 @@ body {
   }
 }
 
-/* Disable dragging for images and links */
 img, a {
   -webkit-user-drag: none;
 }
