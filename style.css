@@ -29,6 +29,17 @@ body {
   --bs-gray: #9aa1a7;
   --bs-gray-dark: #51565b;
 
+  --bs-primary-rgb: #9aa1a7;
+  --bs-secondary-rgb: 108, 117, 125;
+  --bs-black-rgb: 2, 2, 2;
+  --bs-light-rgb: 241, 241, 240;
+  --bs-dark-rgb: 33, 37, 41;
+
+  --bs-link-color: var(--bs-dark);
+  --bs-link-color-rgb: 17, 17, 17;
+  --bs-link-decoration: underline;
+  --bs-link-hover-color: var(--bs-primary);
+  --bs-link-hover-color-rgb: 17, 17, 17;
 }
 
 @media only screen and (max-width: 991px) {
