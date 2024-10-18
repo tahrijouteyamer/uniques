@@ -213,7 +213,6 @@ a {
   src: url('fonts/TheGodfather-rgRK.ttf') format('truetype');
 }
 
-/* Apply the new font */
 .font-godfather {
   font-family: 'TheGodfather', sans-serif;
   font-size: 2rem;
