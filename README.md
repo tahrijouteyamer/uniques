@@ -5,7 +5,7 @@ Welcome to **Uniques**, a high-end platform that offers only the best, carefully
 ![uniques_readmepic](https://github.com/user-attachments/assets/da4c18a6-e2d6-4134-88a5-7960f4a9d32e)
 
 
-## 🚀 Features
+## 🚀 Features:
 - **🔍 Search the Best**: Filter through only the highest-rated, handpicked films for a premium experience.
 - **🎥 Watch Movies and Trailers**: Watch full movies and trailers of new releases directly on the platform.
 - **🎞 Explore Genres**: Browse curated collections of the best movies in each genre.
@@ -14,13 +14,13 @@ Welcome to **Uniques**, a high-end platform that offers only the best, carefully
 - **🤖 Personalized Recommendations**: Get five curated movie suggestions to watch.
 - **📧 Email Updates**: Subscribe to receive top movie recommendations straight to your inbox.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 - **HTML5**: Structuring the site and content.
 - **CSS3**: Crafting the responsive design, including smooth animations and parallax effects.
 - **JavaScript**: Enabling interactivity and dynamic features like personalized recommendations and trailer views.
 - **External Fonts**: Using custom fonts for a sleek, cohesive design.
 
-## ⚠️ Note on Code Availability
+## ⚠️ Note on Code Availability:
 To maintain the uniqueness and exclusivity of **Uniques**, only a partial version of the project’s codebase is shared publicly. This includes basic HTML structure, some JavaScript functionality, and limited CSS for design demonstration purposes. Full source code for the project is not included.
 
 ## 💻 Getting Started (Partial Code)
@@ -28,7 +28,7 @@ To maintain the uniqueness and exclusivity of **Uniques**, only a partial versio
 ### Prerequisites
 - A modern web browser (Google Chrome, Safari, Firefox, or Edge)
 
-### Installation
+### Installation:
 To view the publicly shared files locally:
 1. Clone the repository:
    ```bash
