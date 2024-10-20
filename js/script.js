@@ -2,7 +2,6 @@
 
   "use strict";
 
-  // Slider arrows
   var initSlider = function () {
     var swiper = new Swiper(".main-swiper", {
       slidesPerView: 3,
