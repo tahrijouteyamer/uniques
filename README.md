@@ -52,5 +52,3 @@ While I welcome feedback and suggestions, please note that the full codebase is 
 —————————————
 
 ![uniques_logo](https://github.com/user-attachments/assets/1302bc9c-828d-42ac-8bdf-e0a117192386)
-
-
