@@ -49,6 +49,6 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## 👤 Contributing
 While I welcome feedback and suggestions, please note that the full codebase is not available for contribution. If you have any ideas for features or improvements, feel free to contact me.
 
-—————————————
+————————————
 
 ![uniques_logo](https://github.com/user-attachments/assets/1302bc9c-828d-42ac-8bdf-e0a117192386)
